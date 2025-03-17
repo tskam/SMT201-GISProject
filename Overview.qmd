@@ -9,6 +9,8 @@ date-modified: "last-modified"
 
 ## The Study Area
 
+For the purpose of this study, we will focus on the entire Singapore main island.
+
 ### Sub-heading 1
 
 ### Sub-heading 2
