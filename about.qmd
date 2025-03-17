@@ -1,0 +1,7 @@
+---
+title: "Our Team"
+---
+
+This is project team consists of one member only :)
+
+![](image/tskam.jpg){fig-align="center" width="350"}
