@@ -11,6 +11,8 @@ website:
         href: ""
       - text: Results and Discussion
         href: ""
+      - text: Interactive map
+        href: "qgis2web/index.html"
     right:
       - href: index.qmd
         text: Home
